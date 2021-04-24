@@ -93,6 +93,9 @@
     grid-column-start: span 2;
     grid-column-start: span 2;
     grid-column-start: span 2;
+    position: absolute;
+    position: relativee;
+    z-index: 20;
     grid-column-start: auto;
     grid-column-start: somegridarea;
     grid-column-start: somegridarea;
